@@ -473,6 +473,51 @@
       "contributions": [
         "tds"
       ]
+    },
+    {
+      "login": "agorovyi",
+      "name": "Anatolii Gorovyi",
+      "avatar_url": "https://avatars3.githubusercontent.com/u/26413531?v=4",
+      "profile": "https://github.com/agorovyi",
+      "contributions": [
+        "tds"
+      ]
+    },
+    {
+      "login": "saydex",
+      "name": "Sayde Deng",
+      "avatar_url": "https://avatars0.githubusercontent.com/u/49663423?v=4",
+      "profile": "https://github.com/saydex",
+      "contributions": [
+        "tds"
+      ]
+    },
+    {
+      "login": "alfredctchoi",
+      "name": "Alfred Choi",
+      "avatar_url": "https://avatars2.githubusercontent.com/u/5086190?v=4",
+      "profile": "https://github.com/alfredctchoi",
+      "contributions": [
+        "tds"
+      ]
+    },
+    {
+      "login": "brendanpowershifter",
+      "name": "Brendan Betts",
+      "avatar_url": "https://avatars1.githubusercontent.com/u/25777936?v=4",
+      "profile": "https://github.com/brendanpowershifter",
+      "contributions": [
+        "tds"
+      ]
+    },
+    {
+      "login": "pkandathil",
+      "name": "Prashant Kandathil",
+      "avatar_url": "https://avatars1.githubusercontent.com/u/1751772?v=4",
+      "profile": "https://github.com/pkandathil",
+      "contributions": [
+        "tds"
+      ]
     }
   ]
 }
