@@ -42,9 +42,6 @@ export default opts => {
       }),
       commonjs({
         include: '../../node_modules/**',
-        namedExports: {
-          'airbnb-prop-types': ['childrenOfType'],
-        },
       }),
       options.css &&
         postcss({
