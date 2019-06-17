@@ -27,6 +27,8 @@
 
   text-overflow: ellipsis;
 
+  -ms-overflow-style: -ms-autohiding-scrollbar;
+
   &::placeholder {
     font: inherit;
     letter-spacing: inherit;
