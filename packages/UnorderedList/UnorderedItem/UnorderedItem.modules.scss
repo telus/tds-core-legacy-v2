@@ -73,7 +73,7 @@
 
   &.small {
     &::before {
-      line-height: 1.32rem;
+      line-height: 1.32;
     }
   }
 }
@@ -82,7 +82,7 @@
   composes: small;
   composes: smallFont;
   &::before {
-    line-height: 1.25rem;
+    line-height: 1.25;
   }
 }
 
@@ -90,7 +90,7 @@
   composes: medium;
   composes: mediumFont;
   &::before {
-    line-height: 1.6rem;
+    line-height: 1.6;
   }
 }
 
@@ -98,6 +98,6 @@
   composes: large;
   composes: largeFont;
   &::before {
-    line-height: 2.1rem;
+    line-height: 2.1;
   }
 }
