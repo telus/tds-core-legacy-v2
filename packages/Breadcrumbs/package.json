@@ -1,6 +1,6 @@
 {
   "name": "@tds/core-breadcrumbs",
-  "version": "1.0.6",
+  "version": "1.0.13",
   "description": "",
   "main": "index.cjs.js",
   "module": "index.es.js",

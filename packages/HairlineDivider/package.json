@@ -1,6 +1,6 @@
 {
   "name": "@tds/core-hairline-divider",
-  "version": "1.0.3",
+  "version": "1.0.7",
   "description": "Separate content within modules",
   "main": "index.cjs.js",
   "module": "index.es.js",

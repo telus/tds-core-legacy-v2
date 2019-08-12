@@ -1,6 +1,6 @@
 {
   "name": "@tds/core-card",
-  "version": "1.0.4",
+  "version": "1.0.11",
   "description": "A content container",
   "main": "index.cjs.js",
   "module": "index.es.js",

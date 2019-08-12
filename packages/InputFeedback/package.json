@@ -1,6 +1,6 @@
 {
   "name": "@tds/core-input-feedback",
-  "version": "1.0.5",
+  "version": "1.0.13",
   "description": "A feedback box commonly used with form fields",
   "main": "index.cjs.js",
   "module": "index.es.js",
