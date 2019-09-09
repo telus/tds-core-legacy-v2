@@ -28,11 +28,11 @@
     "@tds/core-decorative-icon": "^1.1.0",
     "@tds/core-input-feedback": "^1.0.5",
     "@tds/core-paragraph": "^1.0.6",
-    "@tds/core-text": "^1.0.6",
+    "@tds/core-text": "^1.1.0",
     "prop-types": "^15.5.10"
   },
   "devDependencies": {
-    "@tds/core-colours": "^1.1.0",
+    "@tds/core-colours": "^1.1.2",
     "@tds/shared-choice": "^1.1.5"
   }
 }

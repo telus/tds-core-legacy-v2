@@ -26,13 +26,13 @@
   },
   "dependencies": {
     "@tds/core-box": "^1.0.3",
-    "@tds/core-text": "^1.0.6",
-    "@tds/util-prop-types": "^1.2.1",
+    "@tds/core-text": "^1.1.0",
+    "@tds/util-prop-types": "^1.3.2",
     "prop-types": "^15.5.10"
   },
   "devDependencies": {
-    "@tds/core-colours": "^1.1.0",
-    "@tds/shared-base-button": "^1.2.6",
+    "@tds/core-colours": "^1.1.2",
+    "@tds/shared-base-button": "^1.2.15",
     "@tds/util-generate-id": "^1.0.2"
   }
 }
