@@ -26,7 +26,7 @@
     "react-helmet": ">=5"
   },
   "dependencies": {
-    "@tds/core-link": "^1.1.2",
+    "@tds/core-link": "^1.0.6",
     "@tds/core-text": "^1.1.0",
     "@tds/util-prop-types": "^1.3.2",
     "prop-types": "^15.5.10"
