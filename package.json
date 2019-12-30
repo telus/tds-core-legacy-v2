@@ -141,7 +141,7 @@
     "rollup-plugin-node-resolve": "^4.0.0",
     "rollup-plugin-postcss": "^2.0.3",
     "s3-website": "^3.1.2",
-    "sass-loader": "^7.0.0",
+    "sass-loader": "^8.0.0",
     "semantic-release": "^15.13.20",
     "style-loader": "^0.23.0",
     "styled-components": "^4.1.3",
