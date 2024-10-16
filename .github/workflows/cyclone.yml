@@ -10,6 +10,15 @@ jobs:
         with:
           node-version: '20'
       - run: sudo apt-get install python2
+      - run: npm install @babel/plugin-transform-optional-catch-binding@latest
+      - run: npm install @babel/plugin-transform-class-properties@latest
+      - run: npm install @babel/plugin-transform-async-generator-functions@latest
+      - run: npm install @babel/plugin-transform-object-rest-spread@latest
+      - run: npm install mkdirp@latest
+      - run: npm install debug@latest
+      - run: npm install kleur@latest
+      - run: npm install core-js@latest
+      - run: npm install node-gyp@latest
       - run: npm install
       - name: Create SBOM with CycloneDX
         uses: CycloneDX/gh-node-module-generatebom@v1
